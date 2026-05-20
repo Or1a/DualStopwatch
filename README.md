@@ -1,4 +1,4 @@
-##DualStopwatch
+## DualStopwatch
 DualStopwatch is a simple dual stopwatch app for macOS and iOS.
 It lets you run two independent stopwatches side by side, with support for customizable keyboard shortcuts for faster control. 
 It is designed for timing two tasks at the same time, such as experiments, workouts, study sessions, comparisons, gaming, or other 
